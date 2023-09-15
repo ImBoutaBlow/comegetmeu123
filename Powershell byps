@@ -1,3 +1,0 @@
-copy c:/windows/system32/cmd.exe c:\users\public\a.exe
-echo >>c:\users\public\a.exe
-c:\users\public\a.exe
